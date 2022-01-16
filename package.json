@@ -1,0 +1,26 @@
+{
+  "name": "wjam.github.io",
+  "version": "1.0.0",
+  "description": "CV generator",
+  "scripts": {
+    "html": "./node_modules/.bin/resume export --theme kendall resume.html",
+    "pdf": "./node_modules/.bin/resume export --theme actual resume.pdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjam/wjam.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjam/wjam.github.io/issues"
+  },
+  "homepage": "https://github.com/wjam/wjam.github.io#readme",
+  "devDependencies": {
+    "resume-cli": "^2.0.0"
+  },
+  "dependencies": {
+    "jsonresume-theme-actual": "^0.1.6",
+    "jsonresume-theme-kendall": "^0.2.0"
+  }
+}

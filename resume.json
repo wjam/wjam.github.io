@@ -1,0 +1,45 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Will May",
+    "label": "Programmer, DevOps, Consultant",
+    "url": "http://may.dev",
+    "summary": "Basic introduction, background information - whr",
+    "location": {
+      "city": "Mid Sussex",
+      "countryCode": "GB"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "wjam",
+        "url": "https://github.com/wjam"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "OpenCredo",
+      "startDate": "2014-04",
+      "position": "Senior Consultant",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "url": "https://opencredo.com",
+      "website": "https://opencredo.com",
+      "highlights": [
+        "Worked on a multi-region, active-active system"
+      ]
+    },
+    {
+      "name": "Avios",
+      "startDate": "2009-11",
+      "endDate": "2014-04",
+      "position": "Developer/Designer",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "url": "https://www.avios.com",
+      "location": "Mid Sussex",
+      "highlights": ["Lots of things"]
+    }
+  ],
+  "education": [],
+  "languages": []
+}
